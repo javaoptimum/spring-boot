@@ -1,0 +1,4 @@
+*.project
+*.classpath
+spring-boot-multiple-datasource/target/
+spring-boot-multiple-datasource/.settings/
